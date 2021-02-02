@@ -1,0 +1,86 @@
+.app-header {
+    background-color: #263238;
+    height: 55px;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Styles added for Search box implemented */
+
+.searchBox {
+    height: 35px;
+    border-radius: 4px;
+    width: 300px;
+    float: left;
+    background-color: #c0c0c0;
+    margin: 10px;
+    margin-left: 850px;
+}
+
+.app-logo{
+    height: 30px;
+    padding: 5px;
+}
+
+.searchText{
+    padding-bottom: 0px;
+}
+
+.formControl {
+    width: 150px;
+     height: 30px;
+}
+
+.profilePic {
+    float: right;
+}
+
+/* Styles added for user profile icon implemented */
+
+
+.logo {
+    float: left;
+    color: #fff;
+    font-weight: 18px;
+    justify-content: center;
+    padding-left: 8px;
+    text-decoration-line: none;
+    padding-top: 14px;
+}
+
+.iconBtn{
+    float: right;
+    width: 40px;
+    justify-content: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.profilePic {
+   width: 40px;
+   margin-right: 20px;
+   height: 40px;
+   margin-right: 0px;
+   margin-left: 0px;
+   
+}
+
+.avatar {
+    margin-left: auto;
+    margin-right: 20px;
+    justify-content: center;
+    margin-bottom: 5px;
+   }
+
+.menuBar {
+    position: absolute;
+    background-color: grey;
+    color: black;
+    padding-top: 20px;
+}
+
+.menuList{
+    width: 200px;
+}
+
+
